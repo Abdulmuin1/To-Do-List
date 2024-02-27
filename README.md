@@ -31,9 +31,6 @@ Welcome to my To-Do List project! This simple web application allows you to mana
 
 3. Open the index.html file in your web browser to start using the to-do list application.
 
-## Demo
-
-You can view a live demo of the project [here](#).
 
 ## Contributing
 
